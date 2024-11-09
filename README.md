@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="http://react-portfolio-kappa-two.vercel.app/" target="_blank">최예진 포트폴리오</a>
+  <a href="https://react-portfolio-rho-smoky.vercel.app/" target="_blank">최예진 포트폴리오</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme.png" />
